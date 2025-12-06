@@ -11,8 +11,7 @@ The project transforms raw CSV sales records into an interactive **Power BI Dash
 ### 1. Sales Overview
 *A high-level view of performance by Country, Product, and Date.*
 
-![Main Dashboard View](assets/dashboard_main.png)
-*(Note: Replace `gadgets.png` in the assets folder with your actual screenshot)*
+![Main Dashboard View](assets/gadgets.png)
 
 ### 2. Detailed Insights
 *Drill-down analysis showing the impact of Discount Bands on Net Revenue.*
