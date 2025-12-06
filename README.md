@@ -13,8 +13,6 @@ The project transforms raw CSV sales records into an interactive **Power BI Dash
 
 ![Main Dashboard View](assets/gadgets.png)
 
-### 2. Detailed Insights
-*Drill-down analysis showing the impact of Discount Bands on Net Revenue.*
 
 ---
 
